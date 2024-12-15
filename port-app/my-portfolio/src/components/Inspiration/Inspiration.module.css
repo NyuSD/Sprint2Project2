@@ -1,0 +1,22 @@
+.inspiration {
+    padding: 4rem 0;
+    text-align: center;
+  }
+  
+  .inspiration button {
+    background: #0033ff;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 1rem;
+  }
+  
+  .inspiration p {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+    font-style: italic;
+  }
+  

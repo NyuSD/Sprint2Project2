@@ -1,0 +1,29 @@
+.footer {
+    padding: 2rem 0;
+    text-align: center;
+    border-top: 1px solid #333;
+    margin-top: 4rem;
+  }
+  
+  .footer p {
+    margin: 0.5rem 0;
+    line-height: 1.5;
+  }
+  
+  .footer span {
+    color: #00ff7f;
+    font-weight: bold;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .social a {
+    color: #0033ff;
+    text-decoration: none;
+  }
+  

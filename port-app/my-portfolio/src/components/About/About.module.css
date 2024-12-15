@@ -1,0 +1,54 @@
+.about {
+    padding: 4rem 0;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about p em {
+    color: #00ff7f;
+  }
+  
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .text {
+    flex: 1 1 50%;
+    max-width: 600px;
+  }
+  
+  .toolkit {
+    flex: 1 1 40%;
+  }
+  
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  
+  .tags span {
+    background: #333;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+  }
+  
+  .button {
+    display: inline-block;
+    text-decoration: none;
+    background: #0033ff;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    margin-top: 1.5rem;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
